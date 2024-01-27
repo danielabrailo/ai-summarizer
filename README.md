@@ -1,3 +1,5 @@
+![demo-gif](https://github.com/danielabrailo/ai-summarizer/blob/main/src/example-video.gif)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
